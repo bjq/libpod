@@ -39,8 +39,7 @@ require (
 	github.com/gorilla/schema v1.2.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hpcloud/tail v1.0.0
-	github.com/json-iterator/go v1.1.11
-	github.com/mattn/go-colorable v0.1.8 // indirect
+	github.com/json-iterator/go v1.1.12
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635
 	github.com/mrunalp/fileutils v0.5.0
 	github.com/onsi/ginkgo v1.16.4
@@ -55,7 +54,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/rootless-containers/rootlesskit v0.14.5
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
@@ -63,9 +62,9 @@ require (
 	github.com/vbauerster/mpb/v6 v6.0.4
 	github.com/vishvananda/netlink v1.1.1-0.20201029203352-d40f9887b852
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210820121016-41cdb8703e55
+	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/api v0.22.1
 	k8s.io/apimachinery v0.22.1
